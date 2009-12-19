@@ -1,0 +1,38 @@
+/*body {
+  color: #666666; 
+  background: #666666;
+  font: 10px Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+*/
+ #container {
+  width: 75%;
+  margin: 0 auto;
+  background-color: yellow;
+  padding: 20px 40px;
+  border: solid 1px black;
+  margin-top: 20px;
+}
+.testClass{
+	 Width: 100%;
+	 font: 20px Verdana;
+	 background-color: red;
+}
+ul, li, ol, dl, dd, h1, h2, h3, h4, h5, h6, p, blockquote, form, fieldset, img {
+	 margin: 0; 
+	 padding: 0; 
+	 list-style: none; 
+	 border: 0; 
+	 font-weight: normal; 
+	 font-size: 10px; 
+}
+#header {
+background-image:url(http://www.thewebdesignblog.co.uk/images/stars-top-brighter2.jpg);
+background-position:center top;
+background-repeat:no-repeat;
+height:205px;
+margin:0 auto;
+overflow:hidden;
+padding:0;
+width:100%;
+}
